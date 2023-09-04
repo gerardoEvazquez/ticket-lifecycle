@@ -9,7 +9,7 @@ In this lab I go through the lifecycle of a ticket from intake to resolution wit
 
 <p>
 <img src="https://i.imgur.com/RTPPHJp.png" height="80%" width="80%" alt="Ticket Steps"/>
-<img src="https://i.imgur.com/RlHNrkW.png" height="80%" width="80%" alt="Ticket Steps"/>
+<img src="https://i.imgur.com/onBdDD8.png" height="80%" width="80%" alt="Ticket Steps"/>
 <img src="https://i.imgur.com/ApsciFm.png" height="80%" width="80%" alt="Ticket Steps"/>
 </p>
 <p>
