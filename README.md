@@ -10,7 +10,7 @@ In this lab I go through the lifecycle of a ticket from intake to resolution wit
 <p>
 <img src="https://i.imgur.com/RTPPHJp.png" height="80%" width="80%" alt="Ticket Steps"/>
 <img src="https://i.imgur.com/onBdDD8.png" height="80%" width="80%" alt="Ticket Steps"/>
-<img src="https://i.imgur.com/onBdDD8.png" height="80%" width="80%" alt="Ticket Steps"/>
+<img src="https://i.imgur.com/X0921cD.png" height="80%" width="80%" alt="Ticket Steps"/>
 </p>
 <p>
 In order to create tickets, users have to enter the ticket portal and log in if necessary. Within the portal, the user can submit a ticket request and detail their IT related issues. Here, I have created three tickets detailing a variety of problems that can appear as tickets in a real environment. Tickets are created by using a Help Topic, a descriptive outline of the issue, and the details of the issue that are all written as if it were an email.
